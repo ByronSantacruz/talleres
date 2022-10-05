@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(145, 148, 227); 
+    color: rgb(0, 0, 0);
+    border: 3px solid #0029cc;
+    width: 50%;
+    margin: auto;
+    margin-right: 25%;
+    margin-top: 13%;
+    border-radius: 1px;
+    padding: 3px 10px;
+    text-align: left;
+}
+.imagen{
+    position: absolute  ;
+    top: 0%; left: 10%;
+}

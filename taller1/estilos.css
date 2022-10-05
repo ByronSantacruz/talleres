@@ -1,0 +1,338 @@
+body{
+    margin: 0px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.titulo-1{
+    border: 3px solid #0029cc;
+    width: 45%;
+    margin: auto;
+    margin-right: 24px;
+    margin-top: 10px;
+    border-radius: 10px;
+    padding: 3px 10px;
+    text-align: center;
+}
+.titulo-1 h1{
+    margin: 0px;
+    font-size: 35px;
+    font-weight: bold;
+}
+.titulo-1 p{
+    margin: 5px;
+    padding: 0px;
+    font-size: 12px;
+    font-weight: bold;
+    color: #1a349c;
+}
+.fecha{
+    border: 2px solid #0029cc;
+    width: 22%;
+    margin: auto;
+    margin-right: 1040px;
+    margin-left: 26px;
+    margin-top: 10px;
+    border-top-left-radius: 10px;
+    padding: 6px 10px;
+    text-align: left;
+}
+.fecha p{
+    margin-top: 0px;
+    font-size: 12px;
+    font-weight: bold;
+    color: #1a349c;
+    text-align: left;
+}
+.empleo{
+    border: 2px solid #0029cc;
+    border-left: 0px;
+    position: absolute;
+    top: 95px; left: 320px;
+    width: 40%;
+    margin: auto;
+    margin-top: 1px;
+    margin-left: 26px;
+    padding: 6px 10px;
+    text-align: left;
+}
+.empleo p{
+    margin-top: 0px;
+    font-size: 12px;
+    font-weight: bold;
+    color: #0029cc;
+    text-align: left;
+}
+.Codigo{
+    border: 2px solid #0029cc;
+    position: absolute;
+    top: 95px; left: 999px;
+    width: 19%;
+    margin: auto;
+    margin-top: 1px;
+    margin-left: 30px;
+    border-top-right-radius: 10px;
+    border-left: 0px;
+    padding: 19px;
+    text-align: left;
+}
+.Codigo p{
+    margin-top:  0px;
+    font-size: 12px;
+    font-weight: bold;
+    color: #0029cc;
+    text-align: left;
+}
+.informacion{
+    border: 2px solid #0029cc;
+    width: 95%;
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 10px;
+    padding: 5px;
+    background-color: #0029cc;
+}
+.informacion p{
+    margin: 0px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #f7f7f7;
+    text-align: center;
+}
+.apellido{
+    border: 2px solid #0029cc;
+    width: 40%;
+    margin: auto;
+    margin-top: 10px;
+    margin-left: 26px;
+    border-top-left-radius: 10px;
+    padding: 15px;
+}
+.apellido p{
+    margin-top: 0px;
+    font-size: 12px;
+    font-weight: bold;
+    color:#0029cc;
+    text-align: left;
+}
+.nombre{
+    border: 2px solid #0029cc;
+    width: 27.1%;
+    margin-top: 27px;
+    margin-left: 26px;
+    border-top-right-radius: 10px;
+    position: absolute;
+    top: 183px; left: 597.5px;
+    margin-left: 0px;
+    padding: 15px;
+}
+.nombre p{
+    margin-top: 0px;
+    font-size: 12px;
+    font-weight: bold;
+    color: #0029cc;
+    text-align: left;
+}
+.direccion{
+    border: 2px solid #0029cc;
+    width: 40%;
+    margin-top: 0px;
+    margin-left: 26px;
+    border-top: 0px;
+    padding: 15px;
+}
+.direccion p{
+    margin-top: 0px;
+    font-size: 12px;
+    font-weight: bold;
+    color: #0029cc;
+    text-align: left;
+}
+.ciudad{
+    border-top: 0px;
+    border-left: 0px;
+    margin-top: 10px;
+    margin-left: 18px;
+    position: absolute;
+    top: 302px; left: 579px;
+    padding: 15px;
+}
+.ciudad p{
+    margin-top: 0px;
+    font-size: 12px;
+    font-weight: bold;
+    color: #0029cc;
+    text-align: left;
+}
+.ciudad strong{
+    margin-top: 0px;
+    font-size: 12px;
+    font-weight: bold;
+    color: #06070d;
+    text-align: left;
+}
+.telefono{
+    border: 2px solid #0029cc;
+    width: 39.9%;
+    border-top: 0px;
+    margin-top: 0px;
+    margin-left: 26px;
+    padding: 16px;
+}
+.telefono p{
+    margin-top: 0px;
+    font-size: 12px;
+    font-weight: bold;
+    color: #0029cc;
+    text-align: left;
+}
+.cedular{
+    border: 2px solid #0029cc;
+    width: 26.6%;
+    border-top: 0px;
+    border-left: 0px;
+    margin-top: 0px;
+    margin-left: 25px;
+    position: absolute;
+    top: 288px; left: 563px;
+    padding: 24px;
+}
+.cedular p{
+    margin-top: 0px;
+    font-size: 12px;
+    font-weight: bold;
+    color: #0029cc;
+    text-align: left;
+}
+.cedular strong{
+    margin-top: 0px;
+    font-size: 12px;
+    font-weight: bold;
+    color: #09090c;
+    text-align: left;
+}
+.correo{
+    border: 2px solid #0029cc;
+    width: 40.3%;
+    border-top: 0px;
+    margin-top: 0px;
+    margin-left: 26px;
+    padding: 13px;
+}
+.correo p{
+    margin-top: 0px;
+    font-size: 12px;
+    font-weight: bold;
+    color: #0029cc;
+    text-align: left;
+}
+.nacionalidad{
+    border: 2px solid #0029cc;
+    width: 27.4%;
+    border-top: 0px;
+    border-left: 0px;
+    margin-top: 0px;
+    margin-left: 26px;
+    position: absolute;
+    top: 366px; left: 570px;
+    padding: 15px;
+}
+.nacionalidad p{
+    margin-top: 0px;
+    font-size: 12px;
+    font-weight: bold;
+    color: #0029cc;
+    text-align: left;
+}
+.profesion{
+    border: 2px solid #0029cc;
+    width: 40.8%;
+    border-top: 0px;
+    margin-top: 0px;
+    margin-left: 26px;
+    padding: 10px;
+}
+.profesion p{
+    margin-top: 0px;
+    font-size: 12px;
+    font-weight: bold;
+    color: #0029cc;
+    text-align: left;
+}
+.estado{
+    border: 2px solid #0029cc;
+    width: 28%;
+    border-top: 0px;
+    border-left: 0px;
+    margin-top: 0px;
+    margin-left: 26px;
+    position: absolute;
+    top: 448px; left: 572px;
+    padding: 10px;
+}
+.estado p{
+    margin-top: 0px;
+    font-size: 12px;
+    font-weight: bold;
+    color: #0029cc;
+    text-align: left;
+}
+.años{
+    border: 2px solid #0029cc;
+    width: 27.5%;
+    border-left: 0px;
+    margin-left: 20px;
+    position: absolute;
+    top: 512px; left: 584px;
+    padding: 10px;
+}
+.años p{
+    margin-top: 0px;
+    font-size: 12px;
+    font-weight: bold;
+    color: #0029cc;
+    text-align: left;
+}
+.foto{
+    position: absolute;
+    top: 228px; left: 1040px;
+}
+.Estudio{
+    border: 2px solid #0029cc;
+    width: 40.8%;
+    border-top: 0px;
+    margin-top: 0px;
+    margin-left: 26px;
+    padding: 10px;
+}
+.Estudio p{
+    margin-top: 0px;
+    font-size: 12px;
+    font-weight: bold;
+    color: #0029cc;
+    text-align: left;
+}
+.capacitaciones{
+    border: 2px solid #0029cc;
+    width: 28%;
+    border-left: 0px;
+    margin-left: 20px;
+    position: absolute;
+    top: 577.5px; left: 577px;
+    padding: 10px;
+}
+.capacitaciones p{
+    margin-top: 0px;
+    font-size: 12px;
+    font-weight: bold;
+    color: #0029cc;
+    text-align: left;
+}
+td{
+    background-color: #1317d6;
+    border: 1px solid #0029cc;
+    color: #000000;
+}
+th{
+    background-color: #cb61bd;
+    border: 1px solid #0029cc;
+    color: #000000;
+}
